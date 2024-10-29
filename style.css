@@ -3,3 +3,67 @@
     padding: 0;
     box-sizing: border-box;
 }
+.box{
+    height: 200px;
+    width: 0 auto;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 20x;
+    font-weight: 100px;
+    color: aqua;
+    display: flex;
+    
+    
+}
+.box1{
+    height: 200px;
+    width: 0 auto;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 h2 {
+    font-size: 20x;
+    font-weight: 100px;
+    color: rgb(154, 184, 79);
+    display: flex;
+    
+    
+}
+.box2{
+    height: 200px;
+    width: 0 auto;
+    background-color: rgb(156, 29, 42);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2 h2 {
+    font-size: 20x;
+    font-weight: 100px;
+    color: rgb(9, 174, 34);
+    display: flex;
+    
+    
+}
+.box3{
+    height: 200px;
+    width: 0 auto;
+    background-color: rgb(167, 211, 47);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3 h2 {
+    font-size: 20x;
+    font-weight: 100px;
+    color: rgb(50, 41, 122);
+    display: flex;
+    
+    
+}
